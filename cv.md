@@ -14,20 +14,16 @@ I have economic and logistic education. Now I’m working at logistic company an
 * GitHub
 # Example of code
  
-```</head>
-<body>
-<form action="index-1.html" method="POST">
-<h3>Забрать домой</h3>
-<hr>
-<p>Оставьте информацию о себе. Мы позвоним вам и договоримся, когда вы сможете забрать себе питомца.</p>
-<p>
-    <input type="text"
-           id="name"
-           name="username"
-           placeholder="Фамилия и Имя"
-    >
-</p>
-``` 
+ ```<h3>О нас</h3>
+            <p class="aboutus">Мы - благотворительное общественное объединение защиты животных «СПАСИ ЖИЗНЬ». Цель нашей
+                деятельности:
+                помощь бездомным животным, оказавшимся в Пункте отлова и временного содержания безнадзорных животных
+                г.Гродно.</p>
+            <p class="contacts">Контакты</p>
+            <p class="main-content">Если Вы хотите приютить одного из этих четвероногих или оказать какую-либо помощь,
+                звоните волонтёрам:
+            </p>
+  ```
 
 # Work experience
 https://github.com/FuturisticLife/rsschool-cv
