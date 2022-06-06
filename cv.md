@@ -13,8 +13,8 @@ I have economic and logistic education. Now I’m working at logistic company an
 * Figma
 * GitHub
 # Example of code
-``` 
-</head>
+ 
+```</head>
 <body>
 <form action="index-1.html" method="POST">
 <h3>Забрать домой</h3>
@@ -28,6 +28,7 @@ I have economic and logistic education. Now I’m working at logistic company an
     >
 </p>
 ``` 
+
 # Work experience
 https://github.com/FuturisticLife/rsschool-cv
 # Languages
